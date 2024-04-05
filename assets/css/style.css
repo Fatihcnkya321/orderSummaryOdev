@@ -1,0 +1,63 @@
+*{
+    padding: o;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color:  #E0E8FF;
+    
+}
+.conteiner{
+    max-width: 1440px;
+    max-height: 900px;
+}
+.card{
+    width: 450px;
+    height: 632px;
+    top: 102px;
+    left: 495px;
+    background-color: #fff;
+    margin-inline: auto;
+    margin-top: 102px;
+    border-radius: 8px;
+}
+.baslik{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    font-weight: 900;
+    line-height: 37.04px;
+    text-align: center;
+    margin-top: 56px;
+}
+.altYazi{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 26px;
+    text-align: center;
+    margin-top: 17px;
+}
+
+.butonDiv{
+    margin: 58px 48px 92px 48px;
+
+}
+.buton{
+    width: 354px;
+    height: 54.3px;
+    gap: 0px;
+    background-color:  #382AE1;
+    border-radius: 10px;
+    color: #fff;
+}
+
+.sonYazi{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: 900;
+    line-height: 19.85px;
+    text-align: center;
+    color:  #717FA6;
+    margin-top: 19px;
+    
+}
